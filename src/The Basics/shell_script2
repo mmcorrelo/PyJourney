@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+# This is a shell script that will use the first line to find the python interpreter to run the "script"
+# In this version we use the env program to locate the python interpreter in the system
+print("I am the second version to call a shell script")

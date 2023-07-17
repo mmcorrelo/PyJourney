@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+
+# This is a shell script that will use the first line to find the python interpreter to run the "script"
+print("I am a shell script")

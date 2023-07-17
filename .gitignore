@@ -1,0 +1,39 @@
+# Byte-compiled / optimized files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+env/
+Env/
+.env/
+
+# IDE specific files
+.idea/
+.vscode/
+*.pydevproject
+
+# Logs and databases
+*.log
+*.db
+
+# Compiled Python files
+*.pyc
+
+# Environment variable files
+.env
+
+# Miscellaneous
+*.bak
+*.swp
+.DS_Store
